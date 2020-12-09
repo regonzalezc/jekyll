@@ -12,4 +12,5 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- _posts/post1.md
 - projects/proyecto1.md
